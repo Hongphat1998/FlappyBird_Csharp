@@ -1,0 +1,38 @@
+F:\Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.exe.config
+F:\Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.exe
+F:\Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.pdb
+F:\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csprojResolveAssemblyReference.cache
+F:\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+F:\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.GenerateResource.Cache
+F:\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.exe
+F:\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.pdb
+F:\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.frmFlappyBird.resources
+F:\C#\Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.exe.config
+F:\C#\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.exe
+F:\C#\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.pdb
+F:\C#\Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.exe
+F:\C#\Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.pdb
+F:\C#\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csprojResolveAssemblyReference.cache
+F:\C#\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.frmFlappyBird.resources
+F:\C#\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+F:\C#\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.GenerateResource.Cache
+C:\Users\Phat\OneDrive\Desktop\Basic_Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.exe.config
+C:\Users\Phat\OneDrive\Desktop\Basic_Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.exe
+C:\Users\Phat\OneDrive\Desktop\Basic_Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.pdb
+C:\Users\Phat\OneDrive\Desktop\Basic_Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.AssemblyReference.cache
+C:\Users\Phat\OneDrive\Desktop\Basic_Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.frmFlappyBird.resources
+C:\Users\Phat\OneDrive\Desktop\Basic_Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\Phat\OneDrive\Desktop\Basic_Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.GenerateResource.cache
+C:\Users\Phat\OneDrive\Desktop\Basic_Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.CoreCompileInputs.cache
+C:\Users\Phat\OneDrive\Desktop\Basic_Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.exe
+C:\Users\Phat\OneDrive\Desktop\Basic_Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.pdb
+C:\Users\HTP\Downloads\New folder\Basic_Flappy_Bird-master\Flappy_Bird\bin\Debug\Flappy_Bird.exe.config
+C:\Users\HTP\Downloads\New folder\Basic_Flappy_Bird-master\Flappy_Bird\bin\Debug\Flappy_Bird.exe
+C:\Users\HTP\Downloads\New folder\Basic_Flappy_Bird-master\Flappy_Bird\bin\Debug\Flappy_Bird.pdb
+C:\Users\HTP\Downloads\New folder\Basic_Flappy_Bird-master\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.AssemblyReference.cache
+C:\Users\HTP\Downloads\New folder\Basic_Flappy_Bird-master\Flappy_Bird\obj\Debug\Flappy_Bird.frmFlappyBird.resources
+C:\Users\HTP\Downloads\New folder\Basic_Flappy_Bird-master\Flappy_Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\HTP\Downloads\New folder\Basic_Flappy_Bird-master\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.GenerateResource.cache
+C:\Users\HTP\Downloads\New folder\Basic_Flappy_Bird-master\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.CoreCompileInputs.cache
+C:\Users\HTP\Downloads\New folder\Basic_Flappy_Bird-master\Flappy_Bird\obj\Debug\Flappy_Bird.exe
+C:\Users\HTP\Downloads\New folder\Basic_Flappy_Bird-master\Flappy_Bird\obj\Debug\Flappy_Bird.pdb
